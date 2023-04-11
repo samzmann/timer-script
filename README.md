@@ -5,7 +5,7 @@ This is a simple Bash script that implements a timer loop, where each interval l
 To use the script, run the following command in a terminal window:
 
 ```bash
-./timer.sh <loop_duration> <pause_duration>
+./script.sh <loop_duration> <pause_duration>
 ```
 
 Replace `<loop_duration>` and `<pause_duration>` with the desired durations in seconds for each interval and pause, respectively.
